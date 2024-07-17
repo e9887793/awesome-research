@@ -14,3 +14,9 @@
 	- https://pubmed.ncbi.nlm.nih.gov/26978244/
 - [PRISMA Guidelines](https://www.prisma-statement.org/)
 - [STROBE](https://www.strobe-statement.org/)
+
+## Tutorials
+- [Using Zotero Citation Manager at OSU](https://www.youtube.com/watch?v=MJKQTthYfzQ)
+
+## Stats
+- [Hierarchical logistic regression](http://www.medicine.mcgill.ca/epidemiology/Joseph/courses/EPIB-682/hier.pdf)
